@@ -269,6 +269,8 @@ Mensaje siguiente. Cliente: si te compro 3 me haces precio?
 
 ## Capturas
 
+> Las capturas son de las pruebas del 21 y 22 de octubre de 2026, con las condiciones comerciales de ese momento (precio de lista y 10 % por transferencia o efectivo). Desde el 26/10 rige una promoción con precio promocional y 5 % por transferencia: el system prompt de arriba ya está actualizado y los precios se toman en vivo de TiendaNube, así que el flujo es el mismo y solo cambian los montos.
+
 ![El workflow completo](capturas/canvas.png)
 ![Entrada, datos y errores](capturas/canvas-entrada-datos.png)
 ![Agente y salida](capturas/canvas-agente-salida.png)
